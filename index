@@ -239,7 +239,7 @@
     deferredPrompt = e;
   });
 
-  const API_URL = 'https://script.google.com/macros/s/AKfycbwlCJQ9mpkUS00ERipfad8nbB2FmxcDE4uTA6G5af9C9YCVyDG1r42EHIpnJ37z3l-K/exec';
+  const API_URL = 'https://script.google.com/macros/s/AKfycbzDmymu8ED4diEPL9-dX8CZ9sQU67_wknwhFgJNHTgWZ52Zw04x11ALNXwD3iGK4A8q/exec';
 
   async function init() {
     try {
